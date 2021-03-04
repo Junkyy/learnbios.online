@@ -1,7 +1,7 @@
 
 
 # learnbios.online Website
-![](http://image.noelshack.com/fichiers/2021/06/7/1613308929-xokirtools.png)
+![]()
 
 [ + ] Open-source website learnbios.online
 
